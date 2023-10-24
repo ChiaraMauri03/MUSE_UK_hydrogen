@@ -1,0 +1,9 @@
+RegionName,Attribute,Time,CO2c,CO2f,ELC,BIOPEL,NGS,WSTORG,WSTINO,HYG
+Unit,-,Year,2020mGB£/kt,2020mGB£/kt,2020mGB£/PJ,2020mGB£/PJ,2020mGB£/PJ,2020mGB£/PJ,2020mGB£/PJ,2020mGB£/PJ
+R1,CommodityPrice,2020,0,0,35.57598127,5.35,3.305,0,0,12.5
+R1,CommodityPrice,2025,0,0,34,5.35,3.305,0,0,9.5
+R1,CommodityPrice,2030,0,0,33,5.35,3.305,0,0,9
+R1,CommodityPrice,2035,0,0,32,5.35,3.305,0,0,8.5
+R1,CommodityPrice,2040,0,0,34,5.35,3.305,0,0,8
+R1,CommodityPrice,2045,0,0,34,5.35,3.305,0,0,7.5
+R1,CommodityPrice,2050,0,0,32,5.35,3.305,0,0,7

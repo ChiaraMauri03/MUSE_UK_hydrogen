@@ -1,0 +1,9 @@
+Commodity,CommodityType,CommodityName,CommodityEmissionFactor_CO2,HeatRate,Unit
+CO2c,Environmental,CO2c,0,0,kt
+CO2f,Environmental,CO2f,0,0,kt
+ELC,Energy,ELC,0,0,PJ
+BIOPEL,Energy,BIOPEL,0,0,PJ
+NGS,Energy,NGS,0,0,PJ
+WSTORG,Energy,WSTORG,0,0,PJ
+WSTINO,Energy,WSTINO,0,0,PJ
+HYG,Energy,HYG,0,0,PJ

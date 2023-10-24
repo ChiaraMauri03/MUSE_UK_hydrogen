@@ -1,0 +1,9 @@
+RegionName,Attribute,Time,CO2c,CO2f,ELC,BIOPEL,NGS,WSTORG,WSTINO,HYG
+Unit,-,Year,kt,kt,PJ,PJ,PJ,PJ,PJ,PJ
+R1,CommodityDemand,2020,0,0,0,0,0,0,0,0.1
+R1,CommodityDemand,2025,0,0,0,0,0,0,0,4.804486538
+R1,CommodityDemand,2030,0,0,0,0,0,0,0,106.3315692
+R1,CommodityDemand,2035,0,0,0,0,0,0,0,382.4245284
+R1,CommodityDemand,2040,0,0,0,0,0,0,0,566.8360611
+R1,CommodityDemand,2045,0,0,0,0,0,0,0,770.8233213
+R1,CommodityDemand,2050,0,0,0,0,0,0,0,801.6014269
